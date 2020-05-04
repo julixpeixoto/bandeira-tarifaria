@@ -1,6 +1,6 @@
 # bandeira-tarifaria
 
-> A Vue.js project
+Projetinho em Vue.js que exibe as últimas bandeiras tarifárias
 
 ## Build Setup
 
